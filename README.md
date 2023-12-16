@@ -22,13 +22,9 @@ Simply copy the `pancake.py` file to your project directory. Ensure that you hav
 
 To use the Pancake class, import it into your Python script:
 
-pythonCopy code
-
 `from pancake import Pancake`
 
 Create an instance of the Pancake class:
-
-pythonCopy code
 
 `pancake_instance = Pancake(num_states, s=2, smoothing=0.0, seed=None, add_rep=True, delta=-1)`
 
